@@ -1,2 +1,1 @@
-Hawk Eye is a security application designed to hide sensitive text information within digital images. 
-By combining Symmetric XOR Encryption with Least Significant Bit (LSB) Steganography, the system ensures that data is not only hidden from the naked eye but remains unreadable even if the hidden bits are extracted without the correct cryptographic key.
+
